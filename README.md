@@ -6,4 +6,4 @@ Community calls are hosted in our [telegram channel](https://t.me/+8rv-1I2gkmQ4Z
 
 ## Previous call notes
 
-- 
+- [March 26, 2024](https://github.com/bitcoinlayers/community-calls/blob/main/notes/03-27-2024.md)
