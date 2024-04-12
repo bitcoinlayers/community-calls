@@ -2,7 +2,7 @@
 
 The Bitcoin Layers project hosts weekly community calls with members of the community to discuss things related to Bitcoin scaling protocols.
 
-Community calls are hosted in our [telegram channel](https://t.me/+8rv-1I2gkmQ4ZmJh). The next community call is on April 11th, 2024. Call time is TBD.
+Community calls are hosted in our [telegram channel](https://t.me/+8rv-1I2gkmQ4ZmJh). The next community call is on April 12th, 2024. Call time is 3pm UTC.
 
 ## Previous call notes
 
