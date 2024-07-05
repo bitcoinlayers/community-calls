@@ -8,6 +8,7 @@ We host calls every other Thursday. Call times are at 3pm UTC.
 
 ## Previous call notes
 
+- [July 5, 2024](https://github.com/bitcoinlayers/community-calls/blob/main/notes/2024-07-05.md)
 - [May 2, 2024](https://github.com/bitcoinlayers/community-calls/blob/main/notes/2024-05-02.md)
 - April 24, 2024 - Janusz didn't take notes. Feel free to shout at him on the next call.
 - April 18, 2024 - Janusz didn't take notes. Feel free to shout at him on the next call.
